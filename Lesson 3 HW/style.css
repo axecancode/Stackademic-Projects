@@ -81,9 +81,7 @@ button:hover {
     text-align:left;
 }
 
-.linklander {
-    width: 100%;
-}
+
 
 .breakelement
 {
@@ -100,7 +98,7 @@ button:hover {
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-
+    padding:1%;
 }
 
 .flexrowcontent p {
